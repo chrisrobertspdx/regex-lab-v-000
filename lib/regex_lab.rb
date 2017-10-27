@@ -20,4 +20,4 @@ def valid_phone_number?(phone)
 end
 
 starts_with_a_vowel?("atest")
-puts "The rain in Spain lies mainly in the plain".scan(/\w+ain/)
+
