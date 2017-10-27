@@ -1,4 +1,5 @@
 def starts_with_a_vowel?(word)
+  puts "start"
   puts word.match(/^|aeiou|\w+/i)
 end
 
