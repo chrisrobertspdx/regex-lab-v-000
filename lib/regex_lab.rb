@@ -23,4 +23,3 @@ def valid_phone_number?(phone)
   !!phone.match(/.*\d{3}.*\d{3}.*\d{4}.*/)
 end
 
-starts_with_a_vowel?("atest")
